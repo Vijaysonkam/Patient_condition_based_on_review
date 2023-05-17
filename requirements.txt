@@ -1,13 +1,8 @@
 streamlit
 pandas
 scikit-learn==0.23.2
-sklearn.feature_extraction.text
-sklearn.naive_bayes
 pickle
 nltk==3.5
-nltk.corpus
-stopwords
 bs4
-BeautifulSoup
-sqlite3
+BeautifulSoup4==4.9.3
 PIL
